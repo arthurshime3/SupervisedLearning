@@ -1,14 +1,16 @@
 Project 1: Supervised Learning
 
+Github: https://github.com/arthurshime3/SupervisedLearning
+
 The datasets can be found at the following sources:
-Titanic:
-Adult:
+Titanic: https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset?fbclid=IwAR2wDL2sOlU1vRf4QY8h-FmWbXe0fb_S_dKrLDzzPrGeOJVjg4LvANazzLc
+Adult: http://archive.ics.uci.edu/ml/datasets/Adult?fbclid=IwAR0lRjGu57NmSSrwT2F4UqH-9hyvtJrq9yGdzoUo8QsawnKgo7660AqD5Uw
 
 The preprocessed data is already included in this repository so those can be downloaded and used instead of going to the original websites and downloading the datasets. 
 
 All of the data for training, testing, and cross validation accuracy are stored in these sheets. The graphs used to display the data are also included:
-Titanic:
-Adult:
+Titanic: https://docs.google.com/spreadsheets/d/1-MNQovc6mK1Yt4EkBQP6MohO7cx-cQDj1LYs41Sb-pg/edit#gid=1920313251
+Adult: https://docs.google.com/spreadsheets/d/15WZhfrUXd4xYVRBqwS8NkSmnuL9e3wVeenjXUMdAqF0/edit#gid=1499383213
 
 To run the data:
 If you are using the preprocessed data, skip to step 5. If you are working with unprocessed, original data taken from the links above, start here:
